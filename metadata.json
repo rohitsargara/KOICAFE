@@ -1,0 +1,6 @@
+{
+  "name": "Botanica Café & Bakehouse - Artisanal Coffee & Bakery",
+  "description": "Slow-crafted micro-lot brews, single-origin pour-overs, and golden morning viennoiserie in a sunlit botanical studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
